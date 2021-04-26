@@ -1,0 +1,4 @@
+2021-04-26T12:04:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\labb2-anton\wp-includes\Requests\Transport\cURL.php on line 463
+
+2021-04-26T12:05:35+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\labb2-anton\wp-includes\Requests\Transport\cURL.php on line 463
+
