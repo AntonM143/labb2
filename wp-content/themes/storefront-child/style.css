@@ -3,3 +3,13 @@ Theme Name: Storefront-child
 Author: Anton 
 Template: Storefront
 */
+
+
+#page, #masthead{
+    background-color: rgba(216, 210, 210, 0.5);
+}
+
+#weo{
+
+    text-align: right;
+}

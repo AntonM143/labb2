@@ -6,7 +6,12 @@
  */
 
 ?>
+<hr>
+    <?php
+    do_action ('skrivUthej_storefront');
+    ?>
 
+<hr>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<?php
 	
